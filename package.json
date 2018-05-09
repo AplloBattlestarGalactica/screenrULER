@@ -1,6 +1,6 @@
 {
   "name": "screenruler",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "A screenRuler Tool that can measure your screen when you are working",
   "main": "index.js",
   "scripts": {
